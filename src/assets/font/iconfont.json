@@ -1,0 +1,30 @@
+{
+  "id": "4016034",
+  "name": "lovesleep",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "700857",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "880306",
+      "name": "音乐",
+      "font_class": "yinlemusic214",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "1312049",
+      "name": "首页-首页",
+      "font_class": "shouye-shouye",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    }
+  ]
+}
